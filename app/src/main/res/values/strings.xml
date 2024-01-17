@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">wikipedia</string>
+    <string name="hint">Введите запрос...</string>
 </resources>
