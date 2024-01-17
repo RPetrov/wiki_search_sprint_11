@@ -87,14 +87,6 @@ class MainActivity : AppCompatActivity() {
                 }
             })
         }
-
-        val intent = Intent(this, WikiPageActivity::class.java)
-        intent.putExtra(WIKI_TITLE, "Оренбург")
-        startActivity(intent)
-
-
-
-
     }
 
     companion object {
